@@ -1,0 +1,212 @@
+2024-02-02 11:15:16,428 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 18228 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 11:15:16,432 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 11:15:16,433 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 11:15:20,131 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 4.5 seconds (process running for 5.136)
+2024-02-02 11:18:18,811 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 876 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 11:18:18,812 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 11:18:18,812 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 11:18:22,877 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 4.72 seconds (process running for 5.563)
+2024-02-02 11:18:31,337 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 11:26:53,034 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 14684 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 11:26:53,035 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 11:26:53,036 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 11:26:56,794 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 4.534 seconds (process running for 5.401)
+2024-02-02 11:27:35,763 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:41] Getting course with id 4
+2024-02-02 11:27:35,786 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:45] Found course with id 4
+2024-02-02 11:28:04,154 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:67] Updating course with id 1
+2024-02-02 11:28:04,168 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:71] Updated course with id 1
+2024-02-02 11:28:20,977 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:81] Deleting course with id 1
+2024-02-02 11:28:20,987 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:83] Deleted course with id 1
+2024-02-02 11:29:03,708 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:55] Creating new course
+2024-02-02 11:29:03,720 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:61] Created new course with id 11
+2024-02-02 11:29:18,180 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 11:29:53,586 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:41] Getting course with id 41521
+2024-02-02 11:29:53,588 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:48] No course found with id 41521
+2024-02-02 11:30:13,738 INFO [http-nio-8080-exec-9] c.f.s.s.c.GroupController [GroupController.java:56] Finding groups with less or equal than 10 students
+2024-02-02 11:30:13,748 WARN [http-nio-8080-exec-9] c.f.s.s.c.GroupController [GroupController.java:63] No groups found with less or equal than 10 students
+2024-02-02 11:30:24,881 INFO [http-nio-8080-exec-1] c.f.s.s.c.GroupController [GroupController.java:56] Finding groups with less or equal than 20 students
+2024-02-02 11:30:24,884 INFO [http-nio-8080-exec-1] c.f.s.s.c.GroupController [GroupController.java:60] Found 8 groups with less or equal than 20 students
+2024-02-02 11:35:24,300 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 5320 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 11:35:24,301 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 11:35:24,302 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 11:35:28,729 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 5.084 seconds (process running for 5.831)
+2024-02-02 11:36:02,021 INFO [http-nio-8080-exec-1] c.f.s.s.c.StudentController [StudentController.java:57] Getting student with id 2
+2024-02-02 11:36:02,034 INFO [http-nio-8080-exec-1] c.f.s.s.c.StudentController [StudentController.java:61] Found student with id 2
+2024-02-02 11:36:12,577 INFO [http-nio-8080-exec-4] c.f.s.s.c.StudentController [StudentController.java:57] Getting student with id 241251
+2024-02-02 11:36:12,579 WARN [http-nio-8080-exec-4] c.f.s.s.c.StudentController [StudentController.java:64] No student found with id 241251
+2024-02-02 11:37:04,454 INFO [http-nio-8080-exec-5] c.f.s.s.c.StudentController [StudentController.java:97] Updating student with id 4
+2024-02-02 11:37:15,518 INFO [http-nio-8080-exec-8] c.f.s.s.c.StudentController [StudentController.java:97] Updating student with id 4
+2024-02-02 11:38:55,638 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 18704 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 11:38:55,640 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 11:38:55,641 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 11:38:59,028 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 3.978 seconds (process running for 4.698)
+2024-02-02 11:39:14,728 INFO [http-nio-8080-exec-1] c.f.s.s.c.StudentController [StudentController.java:97] Updating student with id 10
+2024-02-02 11:42:38,484 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 22868 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 11:42:38,487 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 11:42:38,489 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 11:42:43,621 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 6.188 seconds (process running for 7.366)
+2024-02-02 11:42:53,472 INFO [http-nio-8080-exec-7] c.f.s.s.c.StudentController [StudentController.java:35] Getting all students
+2024-02-02 11:42:53,503 INFO [http-nio-8080-exec-7] c.f.s.s.c.StudentController [StudentController.java:37] Retrieved 199 students
+2024-02-02 11:44:11,351 INFO [http-nio-8080-exec-9] c.f.s.s.c.StudentController [StudentController.java:43] Finding students related to course math
+2024-02-02 11:44:11,374 WARN [http-nio-8080-exec-9] c.f.s.s.c.StudentController [StudentController.java:50] No students found related to course math
+2024-02-02 11:44:26,071 INFO [http-nio-8080-exec-2] c.f.s.s.c.StudentController [StudentController.java:43] Finding students related to course biology
+2024-02-02 11:44:26,075 INFO [http-nio-8080-exec-2] c.f.s.s.c.StudentController [StudentController.java:47] Found 34 students related to course biology
+2024-02-02 11:44:51,425 INFO [http-nio-8080-exec-4] c.f.s.s.c.StudentController [StudentController.java:57] Getting student with id 5
+2024-02-02 11:44:51,430 INFO [http-nio-8080-exec-4] c.f.s.s.c.StudentController [StudentController.java:61] Found student with id 5
+2024-02-02 11:44:53,199 INFO [http-nio-8080-exec-5] c.f.s.s.c.StudentController [StudentController.java:57] Getting student with id 5125
+2024-02-02 11:44:53,201 WARN [http-nio-8080-exec-5] c.f.s.s.c.StudentController [StudentController.java:64] No student found with id 5125
+2024-02-02 11:45:23,891 INFO [http-nio-8080-exec-7] c.f.s.s.c.StudentController [StudentController.java:71] Adding student with id 4 to course with id 6
+2024-02-02 11:46:05,761 INFO [http-nio-8080-exec-8] c.f.s.s.c.StudentController [StudentController.java:71] Adding student with id 45 to course with id 6
+2024-02-02 11:46:05,762 WARN [http-nio-8080-exec-8] c.f.s.s.c.StudentController [StudentController.java:78] Failed to add student with id 45 to course with id 6
+2024-02-02 11:46:25,572 INFO [http-nio-8080-exec-10] c.f.s.s.c.StudentController [StudentController.java:71] Adding student with id 125 to course with id 6
+2024-02-02 11:46:25,578 INFO [http-nio-8080-exec-10] c.f.s.s.c.StudentController [StudentController.java:75] Added student with id 125 to course with id 6
+2024-02-02 11:46:36,373 INFO [http-nio-8080-exec-9] c.f.s.s.c.StudentController [StudentController.java:71] Adding student with id 125 to course with id 65
+2024-02-02 11:54:33,625 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 18128 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 11:54:33,626 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 11:54:33,627 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 11:54:37,250 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 4.251 seconds (process running for 5.028)
+2024-02-02 11:54:51,643 INFO [http-nio-8080-exec-1] c.f.s.s.c.StudentController [StudentController.java:71] Adding student with id 10 to course with id 5
+2024-02-02 11:54:51,664 INFO [http-nio-8080-exec-1] c.f.s.s.c.StudentController [StudentController.java:75] Added student with id 10 to course with id 5
+2024-02-02 11:54:57,952 INFO [http-nio-8080-exec-3] c.f.s.s.c.StudentController [StudentController.java:71] Adding student with id 1015 to course with id 5
+2024-02-02 12:08:37,979 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 20696 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 12:08:37,980 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 12:08:37,980 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 12:08:41,371 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 3.995 seconds (process running for 4.744)
+2024-02-02 12:08:53,414 INFO [http-nio-8080-exec-8] c.f.s.s.c.StudentController [StudentController.java:71] Adding student with id 155 to course with id 3
+2024-02-02 12:08:53,436 INFO [http-nio-8080-exec-8] c.f.s.s.c.StudentController [StudentController.java:75] Added student with id 155 to course with id 3
+2024-02-02 12:08:56,201 INFO [http-nio-8080-exec-7] c.f.s.s.c.StudentController [StudentController.java:71] Adding student with id 1555 to course with id 3
+2024-02-02 12:11:31,061 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 12048 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 12:11:31,063 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 12:11:31,063 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 12:11:34,070 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 3.587 seconds (process running for 4.207)
+2024-02-02 12:11:44,824 INFO [http-nio-8080-exec-1] c.f.s.s.c.StudentController [StudentController.java:71] Adding student with id 1555 to course with id 3
+2024-02-02 12:11:44,831 WARN [http-nio-8080-exec-1] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:51] Failed to add student with id 1555 to course with id 3.
+2024-02-02 12:11:44,832 WARN [http-nio-8080-exec-1] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:52] No student found with id 1555
+2024-02-02 12:11:55,076 INFO [http-nio-8080-exec-3] c.f.s.s.c.StudentController [StudentController.java:71] Adding student with id 155 to course with id 34
+2024-02-02 12:11:55,083 WARN [http-nio-8080-exec-3] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:58] Failed to add student with id 155 to course with id 34.
+2024-02-02 12:11:55,083 WARN [http-nio-8080-exec-3] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:59] No course found with id 34
+2024-02-02 12:12:00,099 INFO [http-nio-8080-exec-2] c.f.s.s.c.StudentController [StudentController.java:71] Adding student with id 1551 to course with id 34
+2024-02-02 12:12:00,100 WARN [http-nio-8080-exec-2] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:51] Failed to add student with id 1551 to course with id 34.
+2024-02-02 12:12:00,101 WARN [http-nio-8080-exec-2] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:52] No student found with id 1551
+2024-02-02 12:15:16,716 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 9448 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 12:15:16,718 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 12:15:16,719 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 12:15:20,217 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 4.201 seconds (process running for 4.893)
+2024-02-02 12:15:59,414 WARN [main] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:51] Failed to add student with id 1451 to course with id 1.
+2024-02-02 12:15:59,414 WARN [main] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:52] No student found with id 1451
+2024-02-02 12:18:29,683 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 12120 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 12:18:29,685 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 12:18:29,687 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 12:18:33,815 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 5.153 seconds (process running for 6.054)
+2024-02-02 12:18:45,811 WARN [main] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:51] Failed to add student with id 1451 to course with id 2.
+2024-02-02 12:18:45,811 WARN [main] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:52] No student found with id 1451
+2024-02-02 12:19:35,733 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 5672 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 12:19:35,735 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 12:19:35,736 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 12:19:38,796 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 3.716 seconds (process running for 4.513)
+2024-02-02 12:19:49,979 INFO [http-nio-8080-exec-7] c.f.s.s.c.StudentController [StudentController.java:71] Adding student with id 14124 to course with id 2
+2024-02-02 12:19:49,990 WARN [http-nio-8080-exec-7] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:51] Failed to add student with id 14124 to course with id 2.
+2024-02-02 12:19:49,990 WARN [http-nio-8080-exec-7] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:52] No student found with id 14124
+2024-02-02 12:20:51,287 WARN [main] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:51] Failed to add student with id 65121 to course with id 4.
+2024-02-02 12:20:51,287 WARN [main] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:52] No student found with id 65121
+2024-02-02 12:25:25,302 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 10936 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 12:25:25,303 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 12:25:25,304 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 12:25:28,497 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 3.764 seconds (process running for 4.456)
+2024-02-02 12:25:40,567 WARN [main] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:51] Failed to add student with id 15124 to course with id 5.
+2024-02-02 12:25:40,567 WARN [main] c.f.s.s.s.i.StudentServiceImpl [StudentServiceImpl.java:52] No student found with id 15124
+2024-02-02 12:32:52,997 INFO [main] c.f.s.s.m.StudentServiceTest [StartupInfoLogger.java:51] Starting StudentServiceTest using Java 21 with PID 11528 (started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 12:32:52,999 DEBUG [main] c.f.s.s.m.StudentServiceTest [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 12:32:53,000 INFO [main] c.f.s.s.m.StudentServiceTest [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 12:33:40,468 INFO [main] c.f.s.s.m.StudentServiceTest [StartupInfoLogger.java:51] Starting StudentServiceTest using Java 21 with PID 14440 (started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 12:33:40,470 DEBUG [main] c.f.s.s.m.StudentServiceTest [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 12:33:40,471 INFO [main] c.f.s.s.m.StudentServiceTest [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 12:33:49,104 INFO [main] c.f.s.s.m.StudentServiceTest [StartupInfoLogger.java:57] Started StudentServiceTest in 9.167 seconds (process running for 10.906)
+2024-02-02 12:43:35,212 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 25376 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 12:43:35,214 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 12:43:35,214 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 12:43:39,357 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 4.791 seconds (process running for 5.588)
+2024-02-02 12:43:51,950 INFO [http-nio-8080-exec-7] c.f.s.s.c.StudentController [StudentController.java:72] Adding student with id 5 to course with id 5
+2024-02-02 12:43:51,979 INFO [http-nio-8080-exec-7] c.f.s.s.c.StudentController [StudentController.java:76] Added student with id 5 to course with id 5
+2024-02-02 12:43:54,863 INFO [http-nio-8080-exec-8] c.f.s.s.c.StudentController [StudentController.java:72] Adding student with id 5 to course with id 5
+2024-02-02 12:43:54,866 INFO [http-nio-8080-exec-8] c.f.s.s.c.StudentController [StudentController.java:79] Student with id 5 is exist in course with id 5
+2024-02-02 12:48:47,658 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 20152 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 12:48:47,659 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 12:48:47,660 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 12:48:51,300 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 4.333 seconds (process running for 5.071)
+2024-02-02 12:50:19,974 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 22440 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 12:50:19,975 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 12:50:19,976 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 12:50:23,401 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 4.089 seconds (process running for 4.761)
+2024-02-02 12:57:46,123 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 8564 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 12:57:46,129 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 12:57:46,140 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 12:57:53,567 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 8.422 seconds (process running for 9.677)
+2024-02-02 12:57:59,980 INFO [http-nio-8080-exec-1] c.f.s.s.c.StudentController [StudentController.java:108] Removing student with id 5 from course with id 5
+2024-02-02 12:58:00,015 INFO [http-nio-8080-exec-1] c.f.s.s.c.StudentController [StudentController.java:111] Removed student with id 5 from course with id 5
+2024-02-02 12:58:05,639 INFO [http-nio-8080-exec-2] c.f.s.s.c.StudentController [StudentController.java:108] Removing student with id 5 from course with id 5
+2024-02-02 12:58:05,640 INFO [http-nio-8080-exec-2] c.f.s.s.c.StudentController [StudentController.java:111] Removed student with id 5 from course with id 5
+2024-02-02 12:58:10,469 INFO [http-nio-8080-exec-4] c.f.s.s.c.StudentController [StudentController.java:108] Removing student with id 5 from course with id 125
+2024-02-02 12:58:10,472 INFO [http-nio-8080-exec-4] c.f.s.s.c.StudentController [StudentController.java:111] Removed student with id 5 from course with id 125
+2024-02-02 12:58:33,302 INFO [http-nio-8080-exec-6] c.f.s.s.c.StudentController [StudentController.java:44] Finding students related to course Biology
+2024-02-02 12:58:33,319 INFO [http-nio-8080-exec-6] c.f.s.s.c.StudentController [StudentController.java:48] Found 34 students related to course Biology
+2024-02-02 13:02:36,918 INFO [http-nio-8080-exec-8] c.f.s.s.c.GroupController [GroupController.java:42] Getting group with id 3
+2024-02-02 13:02:36,924 INFO [http-nio-8080-exec-8] c.f.s.s.c.GroupController [GroupController.java:46] Found group with id 3
+2024-02-02 13:02:40,141 INFO [http-nio-8080-exec-9] c.f.s.s.c.GroupController [GroupController.java:42] Getting group with id 315
+2024-02-02 13:02:40,142 WARN [http-nio-8080-exec-9] c.f.s.s.c.GroupController [GroupController.java:49] No group found with id 315
+2024-02-02 13:02:50,424 INFO [http-nio-8080-exec-1] c.f.s.s.c.GroupController [GroupController.java:82] Updating group with id 2
+2024-02-02 13:02:50,428 INFO [http-nio-8080-exec-1] c.f.s.s.c.GroupController [GroupController.java:86] Updated group with id 2
+2024-02-02 13:03:03,345 INFO [http-nio-8080-exec-3] c.f.s.s.c.GroupController [GroupController.java:82] Updating group with id 2
+2024-02-02 13:03:03,349 INFO [http-nio-8080-exec-3] c.f.s.s.c.GroupController [GroupController.java:86] Updated group with id 2
+2024-02-02 13:03:16,938 INFO [http-nio-8080-exec-5] c.f.s.s.c.GroupController [GroupController.java:96] Deleting group with id 2
+2024-02-02 13:03:16,947 INFO [http-nio-8080-exec-5] c.f.s.s.c.GroupController [GroupController.java:98] Deleted group with id 2
+2024-02-02 13:03:19,686 INFO [http-nio-8080-exec-6] c.f.s.s.c.GroupController [GroupController.java:96] Deleting group with id 2141
+2024-02-02 13:03:19,687 INFO [http-nio-8080-exec-6] c.f.s.s.c.GroupController [GroupController.java:98] Deleted group with id 2141
+2024-02-02 13:03:38,460 INFO [http-nio-8080-exec-8] c.f.s.s.c.GroupController [GroupController.java:82] Updating group with id 0
+2024-02-02 13:03:38,462 WARN [http-nio-8080-exec-8] c.f.s.s.c.GroupController [GroupController.java:89] No group found with id 0 for update
+2024-02-02 13:03:43,406 INFO [http-nio-8080-exec-9] c.f.s.s.c.GroupController [GroupController.java:82] Updating group with id 1412414124
+2024-02-02 13:03:43,408 WARN [http-nio-8080-exec-9] c.f.s.s.c.GroupController [GroupController.java:89] No group found with id 1412414124 for update
+2024-02-02 13:03:57,412 INFO [http-nio-8080-exec-10] c.f.s.s.c.GroupController [GroupController.java:70] Creating new group
+2024-02-02 13:03:57,427 INFO [http-nio-8080-exec-10] c.f.s.s.c.GroupController [GroupController.java:76] Created new group with id 11
+2024-02-02 13:04:26,542 INFO [http-nio-8080-exec-2] c.f.s.s.c.GroupController [GroupController.java:56] Finding groups with less or equal than 1 students
+2024-02-02 13:04:26,546 INFO [http-nio-8080-exec-2] c.f.s.s.c.GroupController [GroupController.java:60] Found 1 groups with less or equal than 1 students
+2024-02-02 13:04:35,032 INFO [http-nio-8080-exec-3] c.f.s.s.c.GroupController [GroupController.java:56] Finding groups with less or equal than 0 students
+2024-02-02 13:04:35,034 INFO [http-nio-8080-exec-3] c.f.s.s.c.GroupController [GroupController.java:60] Found 1 groups with less or equal than 0 students
+2024-02-02 13:04:45,278 INFO [http-nio-8080-exec-4] c.f.s.s.c.GroupController [GroupController.java:56] Finding groups with less or equal than 15 students
+2024-02-02 13:04:45,281 INFO [http-nio-8080-exec-4] c.f.s.s.c.GroupController [GroupController.java:60] Found 2 groups with less or equal than 15 students
+2024-02-02 13:04:50,070 INFO [http-nio-8080-exec-5] c.f.s.s.c.GroupController [GroupController.java:34] Getting all groups
+2024-02-02 13:04:50,072 INFO [http-nio-8080-exec-5] c.f.s.s.c.GroupController [GroupController.java:36] Retrieved 10 groups
+2024-02-02 13:04:58,347 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:41] Getting course with id 1
+2024-02-02 13:04:58,361 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:48] No course found with id 1
+2024-02-02 13:05:01,250 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:41] Getting course with id 114
+2024-02-02 13:05:01,251 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:48] No course found with id 114
+2024-02-02 13:05:04,837 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:41] Getting course with id 11
+2024-02-02 13:05:04,839 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:45] Found course with id 11
+2024-02-02 13:05:14,723 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:67] Updating course with id 12
+2024-02-02 13:05:14,724 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:74] No course found with id 12 for update
+2024-02-02 13:05:19,687 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:67] Updating course with id 5
+2024-02-02 13:05:19,689 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:71] Updated course with id 5
+2024-02-02 13:05:24,108 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:67] Updating course with id 5
+2024-02-02 13:05:24,110 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:71] Updated course with id 5
+2024-02-02 13:05:36,964 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:55] Creating new course
+2024-02-02 13:05:36,969 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:61] Created new course with id 12
+2024-02-02 13:05:46,361 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 13:05:46,677 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 13:05:46,856 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 13:05:47,074 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 13:05:47,261 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 13:05:47,423 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 13:05:47,562 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 13:05:47,720 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 13:05:47,881 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 13:05:48,057 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 13:05:48,224 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:34] Getting all courses
+2024-02-02 13:07:06,729 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 12016 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 13:07:06,730 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 13:07:06,731 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 13:07:11,528 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 5.76 seconds (process running for 6.647)
+2024-02-02 13:10:52,611 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 3912 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 13:10:52,612 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 13:10:52,613 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 13:10:56,044 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 4.074 seconds (process running for 4.768)
+2024-02-02 13:11:13,646 ERROR [http-nio-8080-exec-1] c.f.s.s.c.StudentController [StudentController.java:93] Validation error: First name cannot be empty

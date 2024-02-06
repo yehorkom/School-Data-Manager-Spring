@@ -1,0 +1,462 @@
+2024-02-02 11:13:45,389 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 14812 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 11:13:45,390 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 11:13:45,391 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 11:13:48,961 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 4.385 seconds (process running for 5.312)
+2024-02-02 11:13:58,967 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 23412 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 11:13:58,969 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 11:13:58,970 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 11:14:02,329 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 4.038 seconds (process running for 4.864)
+2024-02-02 11:14:03,658 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:03,659 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:03,659 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:04,786 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:04,787 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:04,787 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:04,930 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:04,931 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:04,931 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:05,107 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:05,108 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:05,108 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:05,271 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:05,271 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:05,271 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:05,451 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:05,451 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:05,451 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:05,615 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:05,615 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:05,615 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:05,779 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:05,780 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:05,780 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:06,009 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:06,009 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:06,009 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:06,109 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:06,109 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:06,109 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:06,306 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:06,306 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:06,306 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:06,502 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:06,502 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:06,502 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:06,658 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:06,658 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:06,658 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:06,809 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:06,809 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:06,809 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:07,002 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:07,003 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:07,003 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:07,206 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:07,206 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:07,207 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:07,353 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:07,353 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:07,353 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:07,501 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:07,502 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:07,502 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:07,690 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:07,690 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:07,691 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:07,813 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:07,813 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:07,814 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:07,985 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:07,986 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:07,986 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:08,125 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:08,126 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:08,126 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:08,270 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:08,270 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:08,270 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:08,426 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:08,426 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:08,426 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:08,591 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:08,591 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:08,592 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:08,884 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:08,885 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:08,885 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:09,042 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:09,042 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:09,043 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:09,197 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:09,197 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:09,197 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:09,369 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:09,369 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:09,369 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:09,531 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:09,532 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:09,532 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:09,729 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:09,729 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:09,729 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:09,879 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:09,880 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:09,880 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:10,053 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:10,053 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:10,053 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:10,239 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:10,239 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:10,239 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:10,394 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:10,395 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:10,395 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:10,569 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:10,570 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:10,570 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:10,890 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:10,890 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:10,890 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:11,092 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:11,093 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:11,093 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:11,240 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:11,241 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:11,241 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:11,410 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:11,410 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:11,411 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:11,580 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:11,581 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:11,581 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:11,758 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:11,758 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:11,758 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:11,920 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:11,921 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:11,921 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:12,265 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:12,265 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:12,266 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:12,438 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:12,439 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:12,439 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:12,594 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:12,595 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:12,595 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:12,756 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:12,757 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:12,757 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:12,922 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:12,922 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:12,923 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:13,099 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:13,100 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:13,100 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:13,245 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:13,245 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:13,245 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:13,432 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:13,432 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:13,432 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:13,581 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:13,582 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:13,582 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:13,732 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:13,732 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:13,732 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:13,897 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:13,897 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:13,897 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:14,078 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:14,078 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:14,078 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:14,224 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:14,225 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:14,225 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:14,390 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:14,390 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:14,390 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:23,564 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:51] Starting SchoolDataManagerApplication using Java 21 with PID 23368 (C:\Users\komar\Desktop\Java\Projects\School Data Manager\target\classes started by komar in C:\Users\komar\Desktop\Java\Projects\School Data Manager)
+2024-02-02 11:14:23,565 DEBUG [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:52] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-02-02 11:14:23,566 INFO [main] c.f.s.s.SchoolDataManagerApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-02-02 11:14:26,861 INFO [main] c.f.s.s.SchoolDataManagerApplication [StartupInfoLogger.java:57] Started SchoolDataManagerApplication in 3.842 seconds (process running for 4.521)
+2024-02-02 11:14:42,357 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:42,358 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:42,358 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:42,993 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:42,994 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:42,994 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:43,139 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:43,139 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:43,139 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:43,293 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:43,293 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:43,293 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:43,442 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:43,443 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:43,443 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:43,600 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:43,600 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:43,600 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:43,746 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:43,747 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:43,747 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:43,900 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:43,900 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:43,900 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:44,040 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:44,040 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:44,041 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:44,187 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:44,187 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:44,187 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:44,334 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:44,334 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:44,334 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:44,469 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:44,470 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:44,470 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:44,608 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:44,608 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:44,608 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:44,740 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:44,740 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:44,741 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:44,873 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:44,873 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:44,873 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:45,018 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:45,018 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:45,019 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:46,788 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:46,788 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:46,788 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:46,953 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:46,953 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:46,953 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:47,089 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:47,090 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:47,090 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:47,243 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:47,244 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:47,244 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:47,385 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:47,386 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:47,386 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:47,529 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:47,530 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:47,530 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:47,670 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:47,670 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:47,670 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:47,785 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:47,785 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:47,785 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:47,942 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:47,943 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:47,943 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:48,111 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:48,111 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:48,111 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:48,237 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:48,237 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:48,237 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:48,553 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:48,553 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:48,553 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:48,695 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:48,695 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:48,695 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:48,834 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:48,835 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:48,835 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:48,988 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:48,989 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:48,989 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:49,108 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:49,109 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:49,109 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:49,325 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:49,325 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:49,326 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:49,564 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:49,564 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:49,564 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:49,713 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:49,714 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:49,714 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:49,882 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:49,883 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:49,883 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:50,027 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:50,027 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:50,027 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:50,189 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:50,190 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:50,190 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:50,344 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:50,344 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:50,345 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:50,520 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:50,521 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:50,521 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:50,674 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:50,674 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:50,674 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:50,850 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:50,850 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:50,850 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:51,161 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:51,161 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:51,161 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:51,337 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:51,337 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:51,337 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:51,470 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:51,470 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:51,470 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:51,618 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:51,618 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:51,618 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:51,784 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:51,785 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:51,785 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:51,969 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:51,969 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:51,969 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:52,105 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:52,105 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:52,105 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:52,268 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:52,268 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:52,268 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:52,444 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:52,444 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:52,444 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:52,591 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:52,591 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:52,591 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:52,768 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:52,768 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:52,768 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:52,974 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:52,974 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:52,974 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:53,220 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:53,220 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:53,221 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:53,415 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:53,416 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:53,416 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:53,590 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:53,590 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:53,590 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:53,769 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:53,769 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:53,769 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:53,972 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:53,972 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:53,972 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:54,126 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:54,126 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:54,127 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:54,271 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:54,271 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:54,271 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:59,395 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:59,395 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:59,396 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:59,575 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:59,576 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:59,576 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:59,718 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:59,718 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:59,718 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:14:59,896 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:14:59,896 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:14:59,896 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:00,039 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:00,039 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:00,039 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:00,209 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:00,209 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:00,209 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:00,333 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:00,333 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:00,333 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:00,498 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:00,498 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:00,498 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:00,646 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:00,647 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:00,647 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:00,793 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:00,794 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:00,794 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:00,932 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:00,932 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:00,932 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:01,064 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:01,065 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:01,065 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:01,206 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:01,206 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:01,206 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:01,358 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:01,359 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:01,359 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:01,490 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:01,490 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:01,491 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:01,635 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:01,635 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:01,635 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:01,781 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:01,781 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:01,781 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:01,927 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:01,928 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:01,928 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:04,125 INFO [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:04,126 DEBUG [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:04,126 WARN [http-nio-8080-exec-2] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:04,428 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:04,428 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:04,429 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:04,603 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:04,604 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:04,604 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:04,751 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:04,751 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:04,751 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:04,878 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:04,878 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:04,878 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:05,196 INFO [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:05,196 DEBUG [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:05,197 WARN [http-nio-8080-exec-7] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:06,815 INFO [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:06,815 DEBUG [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:06,815 WARN [http-nio-8080-exec-8] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:07,015 INFO [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:07,015 DEBUG [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:07,015 WARN [http-nio-8080-exec-9] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:07,151 INFO [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:07,151 DEBUG [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:07,151 WARN [http-nio-8080-exec-10] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:07,291 INFO [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:07,291 DEBUG [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:07,291 WARN [http-nio-8080-exec-1] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:07,450 INFO [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:07,450 DEBUG [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:07,451 WARN [http-nio-8080-exec-3] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:07,605 INFO [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:07,605 DEBUG [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:07,605 WARN [http-nio-8080-exec-4] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:07,752 INFO [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:07,753 DEBUG [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:07,753 WARN [http-nio-8080-exec-5] c.f.s.s.c.CourseController [CourseController.java:38] Warn
+2024-02-02 11:15:07,967 INFO [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:35] Getting all courses
+2024-02-02 11:15:07,967 DEBUG [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:36] debug
+2024-02-02 11:15:07,967 WARN [http-nio-8080-exec-6] c.f.s.s.c.CourseController [CourseController.java:38] Warn

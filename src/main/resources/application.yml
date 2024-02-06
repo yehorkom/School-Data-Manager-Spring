@@ -1,0 +1,24 @@
+spring:
+  datasource:
+#      url: jdbc:postgresql://postgresBD:5432/schoolDB
+#      url: jdbc:postgresql://localhost:5432/postgresBD
+      url: jdbc:postgresql://localhost:5432/schoolDB
+      username: postgres
+      password: 1423
+      driver-class-name: org.postgresql.Driver
+
+  flyway:
+    baseline-on-migrate: true
+server:
+  error:
+    include-binding-errors: always
+    include-message: always
+springdoc:
+  swagger-ui:
+    path: /school-data-app.html
+#logging:
+#  file:
+#    path: src/main/java/com/foxminded/spring/schooldatamanager/logs/123.log
+#  level:
+#    root: trace
+#    web: debug
